@@ -14,6 +14,7 @@
 #include <string.h>
 #include <stdint.h>
 #include <stdbool.h>
+#include <math.h>
 
 // ST Lib
 #include "stm32h7rsxx_hal.h"
